@@ -55,6 +55,9 @@ body {
     flex-direction: column;
   }
 
+  .contact-info__header {
+    color: #f3a43c;
+  }
   .contact_info_container {
     align-items: center;
   }
