@@ -14,7 +14,7 @@ body {
   --durability-text-color: #6a737d9c;
   --icon-color: #6a737d;
   --border-color: #ff9a0045;
-  --text-decoration-color: #ffc964e0;
+  --text-decoration-color: #ff9a00;
 }
 
 .container {
@@ -55,9 +55,6 @@ body {
     flex-direction: column;
   }
 
-  .contact-info__header {
-    color: #f3a43c;
-  }
   .contact_info_container {
     align-items: center;
   }
